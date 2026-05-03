@@ -1,0 +1,10 @@
+# BookNest — Netlify Config
+# Rehan'Z Digital Network
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[build]
+  publish = "."

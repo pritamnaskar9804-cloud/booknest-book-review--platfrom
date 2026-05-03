@@ -1,0 +1,9 @@
+{
+  "name": "booknest-frontend",
+  "version": "1.0.0",
+  "description": "BookNest Frontend — Rehan'Z Digital Network",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx live-server --port=3000"
+  }
+}
